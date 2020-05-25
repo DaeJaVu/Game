@@ -1,6 +1,6 @@
 #ifndef GAME_H
 #define GAME_H
-
+#include "Nokia5110.h"
 extern unsigned long Countdown;
 extern unsigned long TimerCount;
 extern unsigned long tSeconds;
